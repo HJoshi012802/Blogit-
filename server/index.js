@@ -24,7 +24,7 @@ app.use(cookieParser());
 app.use('/uploads',express.static(__dirname+'/uploads'));
 
 
-mongoose.connect('mongodb+srv://harshitjoshi2002:9DBcGhZ0vINLh1ag@cluster0.jqtq0mf.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect(process.env.MONGO_CONNECTION)
 
 
 
