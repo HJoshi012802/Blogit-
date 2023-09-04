@@ -11,7 +11,9 @@ It is a Blogging website in which we can Register an account and Login into that
 # Login
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/7453bc07-e236-4ce8-b25e-800c1ed823f9)
 
+
 We can write our own Blog's after Login is Successful
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/c634ce4e-3e07-4ee7-b10d-e9ee1b3a7619)
 
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/3735701c-aa11-4104-9b96-51b6be090180)
 
