@@ -2,10 +2,11 @@
 It is a Blogging website in which we can Register an account and Login into that account with the set password made during Registration.
 
 # Register
-![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0d334c31-75f4-455b-9180-91175645e6d2)
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0f03e242-8b80-45f2-85e4-8ee6f284831f)
+
 
 # Login
-![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0f03e242-8b80-45f2-85e4-8ee6f284831f)
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0d334c31-75f4-455b-9180-91175645e6d2)
 
 We can write our own Blog's after Login is Successful
 
