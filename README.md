@@ -10,7 +10,8 @@ It is a Blogging website in which we can Register an account and Login into that
 We can write our own Blog's after Login is Successful
 
 # Home Page 
-![Screenshot (169)](https://github.com/HJoshi012802/Blogit-/assets/106693465/973338e4-4dfc-4326-b61b-235fb7692e55)
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0af7e606-23a2-437c-bef4-3c1ae43a6a65)
+
 
 # Click Create Post
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/d1adeaf0-bc19-41ba-be00-fe58857519ab)
