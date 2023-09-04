@@ -1,18 +1,21 @@
 # Blogit
 It is a Blogging website in which we can Register an account and Login into that account with the set password made during Registration.
 
+
+# Home Page 
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0af7e606-23a2-437c-bef4-3c1ae43a6a65)
+
 # Register
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0f03e242-8b80-45f2-85e4-8ee6f284831f)
-
 
 # Login
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/7453bc07-e236-4ce8-b25e-800c1ed823f9)
 
-
 We can write our own Blog's after Login is Successful
 
-# Home Page 
-![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0af7e606-23a2-437c-bef4-3c1ae43a6a65)
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/3735701c-aa11-4104-9b96-51b6be090180)
+
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/2f8a25d3-ed5e-467e-aed6-ab32c54e508c)
 
 
 # Click Create Post
