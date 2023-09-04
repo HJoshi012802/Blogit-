@@ -13,6 +13,7 @@ It is a Blogging website in which we can Register an account and Login into that
 
 
 We can write our own Blog's after Login is Successful
+
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/c634ce4e-3e07-4ee7-b10d-e9ee1b3a7619)
 
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/3735701c-aa11-4104-9b96-51b6be090180)
@@ -33,7 +34,6 @@ We can write our own Blog's after Login is Successful
 
 # OPEN A BLOG AND READ IT
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/934866c1-cddc-4439-a334-4f2115524c94)
-
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/87b3c163-4977-498a-9dc2-6882b72a1263)
 
 # EDIT YOUR OWN BLOG
