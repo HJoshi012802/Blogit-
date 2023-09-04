@@ -6,7 +6,8 @@ It is a Blogging website in which we can Register an account and Login into that
 
 
 # Login
-![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0d334c31-75f4-455b-9180-91175645e6d2)
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/7453bc07-e236-4ce8-b25e-800c1ed823f9)
+
 
 We can write our own Blog's after Login is Successful
 
