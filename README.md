@@ -5,8 +5,10 @@ It is a Blogging website in which we can Register an account and Login into that
 # Home Page 
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0af7e606-23a2-437c-bef4-3c1ae43a6a65)
 
+
 # Register
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/0f03e242-8b80-45f2-85e4-8ee6f284831f)
+
 
 # Login
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/7453bc07-e236-4ce8-b25e-800c1ed823f9)
@@ -32,15 +34,18 @@ We can write our own Blog's after Login is Successful
 # CHOOSE A BLOG TO READ
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/323d30bf-18d6-4965-aca0-1751cb8c78c1)
 
+
 # OPEN A BLOG AND READ IT
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/934866c1-cddc-4439-a334-4f2115524c94)
-![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/87b3c163-4977-498a-9dc2-6882b72a1263)
+![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/5e77df3e-74b4-41a7-8739-6a98e57565d0)
+
 
 # EDIT YOUR OWN BLOG
 If you see your Blog in Read Mode You Can see an option to edit post
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/1ccba09b-b1c1-4cf9-bfed-4708656f47e3)
 
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/fa049cb7-7b06-4acd-abd1-7d28cb138a5d)
+
 
 # LOG OUT
 ![image](https://github.com/HJoshi012802/Blogit-/assets/106693465/4d544636-868a-463c-84b5-842500e336f8)
